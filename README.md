@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Pedro! <img src="https://raw.githubusercontent.com/pedrostefano/pedrostefano/master/wave.gif" width="30px">
 
-<!--
-**pedrostefano/pedrostefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A person curious about technology, in all its forms. :open_mouth:
 
-Here are some ideas to get you started:
+And a software engineer that face the most dangerous world's problemas with a lot of code, data, algorithms, tools, frameworks, sugar, spice and everything nice. :smirk:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :hammer_and_wrench:
+
+Here, I put some project, test projects, snippets, docs, and things that can save me sometime.
+
+Feel free to use, at your own risk. :laughing: :crossed_fingers:
+
+<img src="https://raw.githubusercontent.com/pedrostefano/pedrostefano/master/wave.gif">
