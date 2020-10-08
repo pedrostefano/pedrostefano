@@ -12,4 +12,4 @@ Here, I put some project, test projects, snippets, docs, and things that can sav
 
 Feel free to use, at your own risk. :laughing: :crossed_fingers:
 
-<img src="https://raw.githubusercontent.com/pedrostefano/pedrostefano/master/wave.gif">
+<img src="https://github.com/pedrostefano/pedrostefano/blob/master/assets/dino.gif">
