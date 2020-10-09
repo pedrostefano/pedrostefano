@@ -1,4 +1,4 @@
-## Hi, I'm Pedro! <img src="https://raw.githubusercontent.com/pedrostefano/pedrostefano/master/wave.gif" width="30px">
+## Hi, I'm Pedro! <img src="https://github.com/pedrostefano/pedrostefano/blob/master/assets/wave.gif" width="30px">
 
 A person curious about technology, in all its forms. :open_mouth:
 
